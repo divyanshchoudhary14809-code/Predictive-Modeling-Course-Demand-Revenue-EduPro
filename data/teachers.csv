@@ -1,0 +1,16 @@
+TeacherID,Expertise,YearsOfExperience,TeacherRating
+T001,Data Science,5,4.6
+T002,Data Science,8,4.8
+T003,Web Development,4,4.4
+T004,Web Development,7,4.6
+T005,AI & ML,6,4.7
+T006,AI & ML,9,4.9
+T007,Cloud Computing,5,4.5
+T008,Cloud Computing,8,4.7
+T009,Cyber Security,6,4.6
+T010,Cyber Security,10,4.8
+T011,Digital Marketing,3,4.3
+T012,Digital Marketing,6,4.5
+T013,UI/UX Design,4,4.4
+T014,UI/UX Design,7,4.6
+T015,Data Science,10,4.9
